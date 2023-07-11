@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Android Curso 12 hrs Arist</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weigth">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="imcapp">IMC App!</string>
+    <string name="todoapp">TODO App</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo</string>
+    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura.</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura.</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo óptimo para tu peso y altura.</string>
+
+    <string name="title_obecidad">Sobrepeso</string>
+    <string name="description_obecidad">Estás MUY por encima de lo óptimo para tu peso y altura.</string>
+
+    <!--TodoApp-->
+    <string name="todo_title">Bienvenido, Juan</string>
+    <string name="todo_categories">Categorías:</string>
+    <string name="todo_tasks">Tareas:</string>
+
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
+
+    <!--SuperHeroApp-->
+    <string name="super_hero_app">Super Hero App</string>
+    <string name="super_hero_name">Iroman</string>
+
+
+</resources>
